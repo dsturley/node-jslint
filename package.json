@@ -1,8 +1,8 @@
 {
-	"name": "node-lint",
+	"name": "node-jslint",
 	"description": "CommonJS bindings for JSLint.",
 	"version": "0.1.0",
-	"homepage": "https://github.com/circusbred/node-lint",
+	"homepage": "https://github.com/circusbred/node-jslint",
 	"contributors": [
 		{
 			"name": "David Sturley",
@@ -11,15 +11,15 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/circusbred/node-lint.git"
+		"url": "git://github.com/circusbred/node-jslint.git"
 	},
 	"bugs": {
-		"url": "https://github.com/circusbred/node-lint/issues"
+		"url": "https://github.com/circusbred/node-jslint/issues"
 	},
 	"licenses": [
 		{
 			"type": "MIT",
-			"url": "https://github.com/circusbred/node-lint/blob/master/LICENSE-MIT"
+			"url": "https://github.com/circusbred/node-jslint/blob/master/LICENSE-MIT"
 		}
 	],
 	"engines": {
