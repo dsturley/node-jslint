@@ -22,6 +22,7 @@
 			"url": "https://github.com/circusbred/node-jslint/blob/master/LICENSE-MIT"
 		}
 	],
+	"main": "lib/index.js",
 	"engines": {
 		"node": "*"
 	},
